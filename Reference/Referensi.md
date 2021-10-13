@@ -3,7 +3,7 @@
 * [Judul/tema jurnal 2](https://www.google.com)
 
 ### Video Reference
-* [Judul/tema video](youtube.com/watch?v=vCubuWNIODQ)
+* [Tutorial Tracer Peer to peer dan AD HOC](youtube.com/watch?v=vCubuWNIODQ)
 * [Judul/tema video](https://www.google.com)
 
 ### Other Reference
