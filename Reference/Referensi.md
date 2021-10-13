@@ -3,7 +3,7 @@
 * [Judul/tema jurnal 2](https://www.google.com)
 
 ### Video Reference
-* [Judul/tema video](https://www.google.com)
+* [Judul/tema video](youtube.com/watch?v=vCubuWNIODQ)
 * [Judul/tema video](https://www.google.com)
 
 ### Other Reference
