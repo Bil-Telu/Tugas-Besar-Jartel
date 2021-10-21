@@ -2,11 +2,11 @@
 ====================
 
 Selamat datang di repostory kami!
-Repository ini dibuat untuk **Tugas Besar Jaringan Telekomunikasi**
+Repository ini dibuat untuk **Tugas Besar Mata Kuliah Jaringan Telekomunikasi TT-44-11**
 
 
 
-Anggota dari Project ini
+Anggota dari Project ini:
 1. [Dara Kusumawati](https://github.com/Daraaysr)
 2. [Maulaya Radhibilla](https://github.com/Bil-Telu)
 3. [Muhammad Hilmi Izzulhaq](https://github.com/muh-hilmi)
