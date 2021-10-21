@@ -7,6 +7,6 @@
 * [Adhoc with Packet Tracer](https://www.youtube.com/watch?v=YYYAwhxZJq4)
 
 ### Other Reference
-* [referensi lain](https://www.google.com)
+* [JARINGAN AD HOC : JARINGAN WIRELESS DENGAN BIAYA RENDAH YANG BISA ANDA COBA](https://www.baktikominfo.id/id/informasi/pengetahuan/jaringan_ad_hoc_jaringan_wireless_dengan_biaya_rendah_yang_bisa_anda_coba-810)
 * [referensi lain](https://www.google.com)
 
