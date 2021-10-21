@@ -8,5 +8,5 @@
 
 ### Other Reference
 * [JARINGAN AD HOC : JARINGAN WIRELESS DENGAN BIAYA RENDAH YANG BISA ANDA COBA](https://www.baktikominfo.id/id/informasi/pengetahuan/jaringan_ad_hoc_jaringan_wireless_dengan_biaya_rendah_yang_bisa_anda_coba-810)
-* [referensi lain](https://www.google.com)
+* [vehicular adhoc network](https://www.sciencedirect.com/topics/computer-science/vehicular-ad-hoc-network)
 
