@@ -4,7 +4,7 @@
 
 ### Video Reference
 * [Tutorial Tracer Peer to peer dan AD HOC](https://www.youtube.com/watch?v=vCubuWNIODQ)
-* [Judul/tema video](https://www.google.com)
+* [Adhoc with Packet Tracer](https://www.youtube.com/watch?v=YYYAwhxZJq4)
 
 ### Other Reference
 * [referensi lain](https://www.google.com)
