@@ -1,6 +1,6 @@
 ### Journal Reference
 * [Adhoc Mobile Wireless Network Enhancement Based On Cisco Devices](https://www.researchgate.net/publication/272368473_Adhoc_Mobile_Wireless_Network_Enhancement_Based_On_Cisco_Devices)
-* [Judul/tema jurnal 2](https://www.google.com)
+* [Wireless Ad-Hoc Network](https://repository.dinamika.ac.id/id/eprint/697/6/BAB%20III.pdf)
 
 ### Video Reference
 * [Tutorial Tracer Peer to peer dan AD HOC](https://www.youtube.com/watch?v=vCubuWNIODQ)
