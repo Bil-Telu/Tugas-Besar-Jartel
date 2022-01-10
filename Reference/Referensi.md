@@ -5,6 +5,7 @@
 * [Ad hoc networking: an introduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.591.5493&rep=rep1&type=pdf)
 * [RFC3561: Ad hoc on-demand distance vector (AODV) routing](https://dl.acm.org/doi/pdf/10.17487/RFC3561?casa_token=zAkQYwif4WoAAAAA:P6PzNfPPoMOW_h8g__nitbLRaLJ-bDnvt1L4cP5qCBpbkBjR4TBW1Ip96JgfXa_3dkzftbvQ_D8nUfg)
 * [Performance comparison of transport layer protocols](https://d1wqtxts1xzle7.cloudfront.net/61590964/Performance_Comparison_of_Transport_Layer_Protocols-_vol5-issue12-2015_20191223-12686-v59wb2-with-cover-page-v2.pdf?Expires=1641793033&Signature=IwVNC9PFpp-Bjw5prIdTT5l4frXrsyTTIPb2PAhxhmyKIFUpYucv~c4ZJVh30QVoIYqcjvyhqPIE9FKB9zzn~VSxYxMnvmDd02E3suSmVDIuP1JYHOcA6G1M-yqo0nmIVXlxx0rBM74ziM-amIXzoz7hauYhsJez2fra~IhZWZsfJLDJrdY0sx3aK5fUYC9YgvVDvM-4iKtLb9MBRaAGQMz1wi4vDImoScE9j8Dg0R~o0zl3UtMTAlRQwow032n2mlTGy-QvmaOmDwJjO2qOdPxl190vBlGyk0HqfMBZBGnQpFPUI2n0HvYT4jZYG~bHmNJCeH3eDS3~lJzS-3tGuw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+* [Research on Propagation Model of Malicious Programs in Ad Hoc Wireless Network](https://www.proquest.com/openview/95ffd3198f9899fb2aa4559b72917510/1?pq-origsite=gscholar&cbl=52938)
 
 ### Video Reference
 * [Tutorial Tracer Peer to peer dan AD HOC](https://www.youtube.com/watch?v=vCubuWNIODQ)
