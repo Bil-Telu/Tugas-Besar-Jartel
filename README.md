@@ -1,7 +1,7 @@
 # Tugas-Besar-Jartel
 ====================
 
-Selamat datang di repostory kami!
+Selamat datang di repository kami!
 Repository ini dibuat untuk **Tugas Besar Mata Kuliah Jaringan Telekomunikasi TT-44-11**
 
 
